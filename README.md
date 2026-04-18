@@ -8,7 +8,7 @@ pip install -r requirements.txt
 python app.py
 
 ## Mở trên trình duyệt
-http://127.0.0.1:5000/recommend
+http://127.0.0.1:5000/weather?lat=16.0471&lon=108.2068
 
 ## Mô tả
 API này lấy:
